@@ -1,2 +1,2 @@
 # ACC-New-Site
-Hand coded website for Amercian Clear Care
+Hand coded website for American Clear Care
